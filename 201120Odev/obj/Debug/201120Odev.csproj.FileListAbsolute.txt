@@ -1,0 +1,10 @@
+C:\Users\by_nu\source\repos\201120Odev\201120Odev\bin\Debug\201120Odev.exe.config
+C:\Users\by_nu\source\repos\201120Odev\201120Odev\bin\Debug\201120Odev.exe
+C:\Users\by_nu\source\repos\201120Odev\201120Odev\bin\Debug\201120Odev.pdb
+C:\Users\by_nu\source\repos\201120Odev\201120Odev\obj\Debug\201120Odev.csprojAssemblyReference.cache
+C:\Users\by_nu\source\repos\201120Odev\201120Odev\obj\Debug\_201120Odev.Form1.resources
+C:\Users\by_nu\source\repos\201120Odev\201120Odev\obj\Debug\_201120Odev.Properties.Resources.resources
+C:\Users\by_nu\source\repos\201120Odev\201120Odev\obj\Debug\201120Odev.csproj.GenerateResource.cache
+C:\Users\by_nu\source\repos\201120Odev\201120Odev\obj\Debug\201120Odev.csproj.CoreCompileInputs.cache
+C:\Users\by_nu\source\repos\201120Odev\201120Odev\obj\Debug\201120Odev.exe
+C:\Users\by_nu\source\repos\201120Odev\201120Odev\obj\Debug\201120Odev.pdb
